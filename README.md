@@ -2,5 +2,5 @@
 SQL 코딩테스트 문제풀이 모음입니다.
 |파일명|문제|핵심 개념|문제 링크|
 |------|---|---|---|
-|[JAVA1.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA1.java)|두 수의 차|---|---|
-|[JAVA2.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA2.java)|두 수의 곱|---|---|
+|[SQL1.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL1.sql)|이름이 있는 동물의 아이디|---|---|
+|[SQL2.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL2.sql)|역순 정렬하기|---|---|
