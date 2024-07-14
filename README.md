@@ -10,3 +10,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL6.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL6.sql)|동명 동물 수 찾기|GROUP BY NAME / HAVING COUNT(NAME) >=2|---|
 |[SQL7.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL7.sql)|아픈 동물 찾기|WHERE CONDITION = "Sick"|---|
 |[SQL8.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL8.sql)|상위 n개 레코드|ORDER BY / LIMIT 1|---|
+|[SQL9.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL9.sql)|최솟값 구하기|ORDER BY / LIMIT 1|---|
