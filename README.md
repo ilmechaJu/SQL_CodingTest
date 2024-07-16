@@ -12,3 +12,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL8.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL8.sql)|상위 n개 레코드|ORDER BY / LIMIT 1|---|
 |[SQL9.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL9.sql)|최솟값 구하기|ORDER BY / LIMIT 1|---|
 |[SQL10.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL10.sql)|어린 동물 찾기|Where != 'Aged|---|
+|[SQL11.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL11.sql)|여러 기준으로 정렬하기|ORDER BY NAME ASC, DATETIME DESC;|---|
