@@ -16,4 +16,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL12.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL12.sql)|이름에 el이 들어가는 동물 찾기|WHERE lower(NAME) LIKE '%el%' and ANIMAL_TYPE = 'Dog';|---|
 |[SQL13.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL13.sql)|나이 정보가 없는 회원 수 구하기|SELECT SUM(AGE IS NULL) AS USER|---|
 |[SQL14.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL14.sql)|가장 비싼 상품 구하기|ORDER BY & LIMIT OR MAX(PRICE)|---|
-
+|[SQL15.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL15.sql)|NULL 처리하기|ifnull(name, 'No name') AS NAME|---|
