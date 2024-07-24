@@ -18,3 +18,5 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL14.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL14.sql)|가장 비싼 상품 구하기|ORDER BY & LIMIT OR MAX(PRICE)|---|
 |[SQL15.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL15.sql)|NULL 처리하기|ifnull(name, 'No name') AS NAME|---|
 |[SQL16.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL16.sql)|경기도에 위치한 식품창고 목록 출력|ifnull(name, 'N') AS FREZZER_YN|---|
+|[SQL17.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL17.sql)|강원도에 위치한 식품창고 목록 출력|WHERE ADDRESS LIKE '강원도%'|---|
+
