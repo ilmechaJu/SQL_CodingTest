@@ -21,3 +21,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL17.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL17.sql)|강원도에 위치한 식품창고 목록 출력|WHERE ADDRESS LIKE '강원도%'|---|
 |[SQL18.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL18.sql)|DATETIME에서 DATE로 형 변환|DATE_FORMAT(DATETIME, '%Y-%d-%m') AS DATETIME|---|
 |[SQL19.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL19.sql)|흉부외과 또는 일반외과 의사 목록 출력하기|WHERE IN() /ORDER BY A, B|---|
+|[SQL20.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL20.sql)|가격이 제일 비싼 식품의 정보 출력하기|limit 1;|---|
