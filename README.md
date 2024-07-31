@@ -25,3 +25,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL21.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL21.sql)|이름이 없는 동물의 아이디 구하기|WHERE NAME IS NULL|---|
 |[SQL22.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL22.sql)|조건에 맞는 회원수 구하기|WHERE O AND O AND O AND O|---|
 |[SQL23.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL23.sql)|중성화 여부 파악하기|CASE WHEN CONDITION LIKE 'Spayed%' THEN 'O' END AS '중성화' FROM... ORDER...|---|
+|[SQL24.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL24.sql)|카테고리 별 상품 개수 구하기|SUBSTR(PRODUCT_CODE,1,2) / GROUP BY SUBSTR(PRODUCT_CODE,1,2)|---|
