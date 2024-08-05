@@ -28,3 +28,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL24.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL24.sql)|카테고리 별 상품 개수 구하기|SUBSTR(PRODUCT_CODE,1,2) / GROUP BY SUBSTR(PRODUCT_CODE,1,2)|---|
 |[SQL25.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL25.sql)|고양이와 개는 몇 마리 있을까|GROUP BY()|---|
 |[SQL26.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL26.sql)|입양 시각 구하기(1)|HOUR(DATETIME) / SELECT와 WHERE은 AS가 안먹힌다! GROUP BY와 ORDER BY는 AS 별명써도 된다!|---|
+|[SQL27.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL27.sql)|진료과별 총 예약 횟수 출력하기|ORDER BY는 COUNT가 안먹힌다!|---|
