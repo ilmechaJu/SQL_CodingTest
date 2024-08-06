@@ -31,3 +31,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL27.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL27.sql)|진료과별 총 예약 횟수 출력하기|ORDER BY는 COUNT가 안먹힌다!|---|
 |[SQL28.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL28.sql)|12세 이하인 여자 환자 목록 출력하기|ifnull()|---|
 |[SQL29.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL29.sql)|인기있는 아이스크림|ASC는 생략해도 됨|---|
+|[SQL30.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL30.sql)|자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기|특정 옵션은 IN이 아닌 LIKE|---|
