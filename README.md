@@ -32,3 +32,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL28.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL28.sql)|12세 이하인 여자 환자 목록 출력하기|ifnull()|---|
 |[SQL29.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL29.sql)|인기있는 아이스크림|ASC는 생략해도 됨|---|
 |[SQL30.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL30.sql)|자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기|특정 옵션은 IN이 아닌 LIKE|---|
+|[SQL31.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL31.sql)|오랜 기간 보호한 동물(1)|FROM 테이블1 I LEFT JOIN 테이블2 O ON I.A_ID = O.A_ID WHERE / ORDER /LIMIT|---|
