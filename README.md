@@ -33,5 +33,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL29.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL29.sql)|인기있는 아이스크림|ASC는 생략해도 됨|---|
 |[SQL30.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL30.sql)|자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기|특정 옵션은 IN이 아닌 LIKE|---|
 |[SQL31.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL31.sql)|오랜 기간 보호한 동물(1)|FROM 테이블1 I LEFT JOIN 테이블2 O ON I.A_ID = O.A_ID WHERE / ORDER /LIMIT|---|
-|[SQL32.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL32.sql)|카테고리 별 도서 판매량 집계하기
-|FROM 테이블1 B JOIN 테이블2 S ON B.A_ID = S.A_ID / SUM()---|
+|[SQL32.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL32.sql)|카테고리 별 도서 판매량 집계하기|FROM 테이블1 B JOIN 테이블2 S ON B.A_ID = S.A_ID / SUM()---|
