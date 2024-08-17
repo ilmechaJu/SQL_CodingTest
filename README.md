@@ -35,4 +35,5 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL31.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL31.sql)|오랜 기간 보호한 동물(1)|FROM 테이블1 I LEFT JOIN 테이블2 O ON I.A_ID = O.A_ID WHERE / ORDER /LIMIT|---|
 |[SQL32.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL32.sql)|카테고리 별 도서 판매량 집계하기|FROM 테이블1 B JOIN 테이블2 S ON B.A_ID = S.A_ID / SUM()|---|
 |[SQL33.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL33.sql)|상품 별 오프라인 매출 구하기|ORDER BY에서는 AS 별명 사용가능|---|
-|[SQL34.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL33.sql)|있었는데요 없었습니다|WHERE I.ANIMAL_ID = O.ANIMAL_ID AND O.DATETIME < I.DATETIME;|---|
+|[SQL34.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL34.sql)|있었는데요 없었습니다|WHERE I.ANIMAL_ID = O.ANIMAL_ID AND O.DATETIME < I.DATETIME;|---|
+|[SQL35.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL35.sql)|오랜 기간 보호한 동물(2)|ORDER BY DATEDIFF(O.DATETIME, I.DATETIME) DESC|---|
