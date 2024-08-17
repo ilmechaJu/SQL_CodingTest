@@ -37,3 +37,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL33.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL33.sql)|상품 별 오프라인 매출 구하기|ORDER BY에서는 AS 별명 사용가능|---|
 |[SQL34.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL34.sql)|있었는데요 없었습니다|WHERE I.ANIMAL_ID = O.ANIMAL_ID AND O.DATETIME < I.DATETIME;|---|
 |[SQL35.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL35.sql)|오랜 기간 보호한 동물(2)|ORDER BY DATEDIFF(O.DATETIME, I.DATETIME) DESC|---|
+|[SQL36.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL36.sql)|보호소에서 중성화한 동물|중성화는 남,여 두종류 이며, Intact(멀쩡한) -> Spayed or Neutered(중성화)|---|
