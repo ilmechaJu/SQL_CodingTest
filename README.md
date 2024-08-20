@@ -38,3 +38,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL34.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL34.sql)|있었는데요 없었습니다|WHERE I.ANIMAL_ID = O.ANIMAL_ID AND O.DATETIME < I.DATETIME;|---|
 |[SQL35.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL35.sql)|오랜 기간 보호한 동물(2)|ORDER BY DATEDIFF(O.DATETIME, I.DATETIME) DESC|---|
 |[SQL36.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL36.sql)|보호소에서 중성화한 동물|중성화는 남,여 두종류 이며, Intact(멀쩡한) -> Spayed or Neutered(중성화)|---|
+|[SQL37.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL37.sql)|조건에 맞는 도서와 저자 리스트 출력하기|다맞는데 틀린다면, DATE_FORMAT() 형식 예제와 같은지 비교하라|---|
