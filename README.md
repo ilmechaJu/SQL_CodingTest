@@ -40,3 +40,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL36.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL36.sql)|보호소에서 중성화한 동물|중성화는 남,여 두종류 이며, Intact(멀쩡한) -> Spayed or Neutered(중성화)|---|
 |[SQL37.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL37.sql)|조건에 맞는 도서와 저자 리스트 출력하기|다맞는데 틀린다면, DATE_FORMAT() 형식 예제와 같은지 비교하라|---|
 |[SQL38.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL38.sql)|조건별로 분류하여 주문상태 출력하기|CASE ~ END|---|
+|[SQL39.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL39.sql)|성분으로 구분한 아이스크림 총 주문량|SUM()|---|
