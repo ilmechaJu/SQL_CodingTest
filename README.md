@@ -42,3 +42,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL38.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL38.sql)|조건별로 분류하여 주문상태 출력하기|CASE ~ END|---|
 |[SQL39.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL39.sql)|성분으로 구분한 아이스크림 총 주문량|SUM()|---|
 |[SQL40.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL40.sql)|루시와 엘라 찾기|WHERE IN ('col1','col2','col3')|---|
+|[SQL41.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL41.sql)|조건에 맞는 도서 리스트 출력하기|DATE LIKE '2021%' AND CATEGORY = '인문'|---|
