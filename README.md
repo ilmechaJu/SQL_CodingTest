@@ -43,3 +43,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL39.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL39.sql)|성분으로 구분한 아이스크림 총 주문량|SUM()|---|
 |[SQL40.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL40.sql)|루시와 엘라 찾기|WHERE IN ('col1','col2','col3')|---|
 |[SQL41.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL41.sql)|조건에 맞는 도서 리스트 출력하기|DATE LIKE '2021%' AND CATEGORY = '인문'|---|
+|[SQL42.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL42.sql)|평균 일일 대여 요금 구하기|AVG() 하면 전체적으로, 바로 avg해줌|---|
