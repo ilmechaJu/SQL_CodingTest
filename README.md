@@ -45,6 +45,5 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL41.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL41.sql)|조건에 맞는 도서 리스트 출력하기|DATE LIKE '2021%' AND CATEGORY = '인문'|---|
 |[SQL42.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL42.sql)|평균 일일 대여 요금 구하기|AVG() 하면 전체적으로, 바로 avg해줌|---|
 |[SQL43.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL43.sql)|조건에 맞는 사용자와 총 거래금액 조회하기|WHERE이 이미 사용중이면, HAVING()|---|
-|[SQL44.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL44.sql)|가격대 별 상품 개수 구하기
-|FLOOR()|---|
+|[SQL44.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL44.sql)|가격대 별 상품 개수 구하기|FLOOR()|---|
 |[SQL45.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL45.sql)|3월에 태어난 여성 회원 목록 출력하기|LIKE "%-03-%" / WHERE 컬럼명1 IS NOT NULL /DATE_FORMAT()|---|
