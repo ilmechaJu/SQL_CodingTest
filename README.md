@@ -47,3 +47,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL43.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL43.sql)|조건에 맞는 사용자와 총 거래금액 조회하기|WHERE이 이미 사용중이면, HAVING()|---|
 |[SQL44.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL44.sql)|가격대 별 상품 개수 구하기|FLOOR()|---|
 |[SQL45.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL45.sql)|3월에 태어난 여성 회원 목록 출력하기|LIKE "%-03-%" / WHERE 컬럼명1 IS NOT NULL /DATE_FORMAT()|---|
+|[SQL46.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL465.sql)|대여 기록이 존재하는 자동차 리스트 구하기|중복제거는 DISTINCT or GROUP BY로 가능/LIKE "%-10-%"|---|
