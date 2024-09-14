@@ -49,3 +49,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL45.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL45.sql)|3월에 태어난 여성 회원 목록 출력하기|LIKE "%-03-%" / WHERE 컬럼명1 IS NOT NULL /DATE_FORMAT()|---|
 |[SQL46.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL46.sql)|대여 기록이 존재하는 자동차 리스트 구하기|중복제거는 DISTINCT or GROUP BY로 가능/LIKE "%-10-%"|---|
 |[SQL47.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL47.sql)|모든 레코드 조회하기|SELECT *|---|
+|[SQL48.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL48.sql)|즐겨찾기가 가장 많은 식당 정보 출력하기|서브쿼리 WHERE (FOOD_TYPE, FAVORITES) IN (SELECT FOOD_TYPE, MAX(FAVORITES) FROM ~ GROUP BY FOOD_TYPE|---|
