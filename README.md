@@ -52,3 +52,4 @@ SQL 코딩테스트 문제풀이 모음입니다.
 |[SQL48.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL48.sql)|즐겨찾기가 가장 많은 식당 정보 출력하기|서브쿼리 WHERE (FOOD_TYPE, FAVORITES) IN (SELECT FOOD_TYPE, MAX(FAVORITES)) FROM ~ GROUP BY FOOD_TYPE|---|
 |[SQL49.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL48.sql)|식품분류별 가장 비싼 식품의 정보 조회하기|서브쿼리 WHERE()|---|
 |[SQL50.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL50.sql)|5월 식품들의 총매출 조회하기|GROUP BY하고 SUM도 해줘야 함!|---|
+|[SQL51.sql](https://github.com/ilmechaJu/SQL_CodingTest/blob/main/solutions/SQL51.sql)|없어진 기록 찾기|LEFT OUTER JOIN은 NULL도 표시한다!|---|
